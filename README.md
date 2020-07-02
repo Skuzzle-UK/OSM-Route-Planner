@@ -1,6 +1,8 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains my completed code for the Route Planning project.
+
+<img src="OSMrouteplanner-PASSED.png" wdith="600" height="400" />
 
 <img src="map.png" width="600" height="450" />
 
